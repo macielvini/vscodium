@@ -1,0 +1,8 @@
+[
+    // Recommended 'commentLine' shortcut for Thinkpad (or any Lenovo notebook)
+    {
+        "key": "ctrl+;",
+        "command": "editor.action.commentLine",
+        "when": "editorTextFocus"
+    }
+]
